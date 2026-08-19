@@ -118,8 +118,4 @@ blogs were used to *understand* each concept — not to copy analyses or impleme
 directly. Every explanation, implementation, and business insight in these notebooks
 reflects my own understanding and independently-verified findings.
 
-## Note on File Naming
 
-Sprints 2 and 3 each contain a notebook named `15_Mini_Assessment.ipynb`. This sprint's
-equivalent is named `15_Mini_Assessment_Sprint4.ipynb` to avoid a naming collision when
-notebooks from multiple sprints share a folder.
